@@ -1,9 +1,7 @@
 titanic-2
 ================
-ShayleeLi
+ShayleeLi (Liping)
 Dec 18, 2016
-
-> By Liping <Li@Shaylee>
 
 ### -Import and Overview
 
