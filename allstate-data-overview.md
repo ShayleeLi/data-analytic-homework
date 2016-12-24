@@ -26,10 +26,10 @@ summary(train)
     ##  Mean   :294136                                                         
     ##  3rd Qu.:440681                                                         
     ##  Max.   :587633                                                         
-    ## ...
-    ## hidden for save space
-    ## ...
-    ##      cat113          cat114           cat115          cat116  
+    ##  
+    ##  hidden for save space
+    ##  
+    ##  cat113          cat114           cat115          cat116  
     ##  BM     :26191   A      :131693   K      :43866   HK     : 21061  
     ##  AE     :22030   C      : 16793   O      :26813   DJ     : 20244  
     ##  L      :13058   E      : 16475   J      :23895   CK     : 10162  
