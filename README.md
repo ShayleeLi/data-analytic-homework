@@ -10,6 +10,7 @@ Homeworks of data analytic course
 
 ##
 [2. Kaggle Allstate competition]
-(https://www.kaggle.com/c/allstate-claims-severity)
+(https://www.kaggle.com/c/allstate-claims-severity)( :point_left: information about this competition)
 * [Data overview ]
  (https://github.com/ShayleeLi/data-analytic-homework/blob/master/allstate-data-overview.md)
+ </p> 188318 rows and 132 columns. Observe distributions and test for correlationship between variables.
