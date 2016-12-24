@@ -95,3 +95,9 @@ imp[1:65, 1]
     ## [50] "cat44"  "cat84"  "cat38"  "cat97"  "cat102" "cat27"  "cat26" 
     ## [57] "cat11"  "cat37"  "cat92"  "cat5"   "cat85"  "cat95"  "cat36" 
     ## [64] "cat9"   "cat13"
+
+Lasso regression also suggests half of variables will be reasonable.
+Use "glmnet" package, run for a whole day.
+But I don't know how to select specific variables via the result of lasso regression :neutral_face:
+
+> :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree: :christmas_tree:
