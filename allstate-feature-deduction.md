@@ -21,8 +21,7 @@ cor_reduced = c("id", "cat1", "cat15", "cat22", "cat32", "cat35", "cat38", "cat4
     "cat111", "cat112", "cat113", "cat114", "cat115", "cat116", "cont1", "cont2", 
     "cont3", "cont4", "cont5", "cont6", "cont7", "cont8", "cont10", "cont11", 
     "cont12", "cont13", "cont14", "loss")
-# write.csv(cor_reduced,'C:/data/cor_reduced.txt',row.names=F,
-# colnames=c('reduced_cor_var'))
+# write.csv(cor_reduced,'C:/data/cor_reduced.txt',row.names=F,colnames=c('reduced_cor_var'))
 ```
 
 ### Feature Deduction 2: Select independent variables by rf importance
