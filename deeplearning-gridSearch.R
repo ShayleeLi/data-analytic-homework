@@ -125,7 +125,7 @@ avgPredTest2=(all_pred_test$m1+all_pred_test$m2+all_pred_test$m3+
              #     +all_pred_test$m13+all_pred_test$m14+
              #       all_pred_test$m15+all_pred_test$m16
 )/5
-submission <- as.matrix(test[,1])
+submission = as.matrix(test[,1])
 submission=as.data.table(submission)
 submission=cbind(submission,avgPredTest)
 colnames(submission)=c("id","loss")
