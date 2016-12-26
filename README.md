@@ -17,3 +17,6 @@ Homeworks of data analytic course
 * [Feature Deduction ]
 (https://github.com/ShayleeLi/data-analytic-homework/blob/master/allstate-feature-deduction.md)
 </p> Extracts half of variables by means of correlationship test and random forest importance.</p>
+* [h2o Deep Learning ]
+(https://github.com/ShayleeLi/data-analytic-homework/blob/master/deeplearning-gridSearch.R)
+</p> Grid search neural network models with half rf important variables.</p>
