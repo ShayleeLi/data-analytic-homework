@@ -19,4 +19,7 @@ Homeworks of data analytic course
 </p> Extracts half of variables by means of correlationship test and random forest importance.</p>
 * [h2o Deep Learning ]
 (https://github.com/ShayleeLi/data-analytic-homework/blob/master/deeplearning-gridSearch.R)
-</p> Grid search neural network models with half rf important variables.</p>
+</p> Grid search neural network models with half rf important variables. Score 1136 on public leaderboard.</p>
+* [XGBoost Gradient Boost Tree &Ensemble ]
+(https://github.com/ShayleeLi/data-analytic-homework/blob/master/xgb_ensemble.R)
+</p> Train xgboost trees and ensemble result. Score 1112 on public leaderboard.</p>
